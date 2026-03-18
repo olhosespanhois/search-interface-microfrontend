@@ -1,12 +1,12 @@
 {
-  "name": "@station/search",
-  "version": "0.0.1",
-  "peerDependencies": {
-    "@angular/common": "^16.1.0",
-    "@angular/core": "^16.1.0"
-  },
-  "dependencies": {
-    "tslib": "^2.3.0"
-  },
-  "sideEffects": false
+	"name": "@station/search",
+	"version": "0.0.1",
+	"peerDependencies": {
+		"@angular/common": ">=21.2.4",
+		"@angular/core": ">=21.2.4"
+	},
+	"dependencies": {
+		"tslib": ">=2.8.1"
+	},
+	"sideEffects": false
 }
